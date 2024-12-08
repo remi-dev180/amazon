@@ -28,6 +28,7 @@ header .h-center{
 header .h-center span{
   font-size: 30px;
   color: #fff;
+  font-weight: bold;
 }
 header .h-center img{
   width: 30px;
@@ -42,4 +43,31 @@ header .h-end img{
 }
 header .h-end span{
   color: #fff;
+}
+#main{
+  background: #f8f8f8;
+}
+
+footer .f-layer1{
+  background: #fff;
+  height: 25px;
+}
+footer .f-layer2{
+  background: #37475a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  padding: 20px;
+}
+footer .f-layer2 span{
+  cursor: pointer;
+}
+footer .f-layer3{
+  background: #232f3e;
+  height: 30px;
+}
+footer .f-layer4{
+  background: #131a22;
+  height: 30px;
 }

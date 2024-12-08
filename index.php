@@ -19,6 +19,19 @@
       <span>Cart</span>
     </div>
   </header>
+  <section id="main">
+  
+  </section>
+  <footer>
+    <div class="f-layer1"></div>
+    <div class="f-layer2">
+      <span>Back to top</span>
+    </div>
+    <div class="f-layer3">
+      <img src="img/logo2.png" alt="">
+    </div>
+    <div class="f-layer4"></div>
+  </footer>
 
 </body>
 </html>
